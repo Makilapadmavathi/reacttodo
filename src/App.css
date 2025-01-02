@@ -1,0 +1,121 @@
+/* NavBar and Forms */
+.logo{
+  width: 30px;
+  color:'white';
+}
+.custom-input{
+  font-size: 16px !important;
+  margin: 1em 0em !important;
+  width: 50% !important;
+}
+.heading
+{
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 0.5 rem;
+  padding-left: 30px;
+  color: #767373;
+  text-align: left;
+}
+.label
+{
+  font-size: 14px;
+  color: #767373;
+}
+.textform
+{
+  border-left:'none';
+  background-color:'white';
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #2E4C80;
+  background-color: cutom-color;
+  border-color: #2E4C80;
+  border-color: cutom-cor;
+}
+.btn.my-cusomized-button {
+  border-color:  #139819;
+  color: #139819;
+  background-color: transparent;
+  border: 2px solid  #139819;
+  border-radius:18px;
+  margin-right: 2px;
+  font-size: 14px;
+}
+.btn.my-cusomized-button-back {
+  border-color:  #e6450b;
+  color: #e6450b;
+  background-color: transparent;
+  border: 2px solid  #e6450b;
+  border-radius:18px;
+  margin-right: 2px;
+  font-size: 14px;
+}
+.navflow
+{
+  width:30px;
+}
+
+/* Navbar css */
+.navmenulabel
+{
+  color: #767373;
+}
+/*Log in */
+.container-center {
+  padding-top: 200px;
+  padding-left: 70px;
+  display: flex;
+color: #f3eeee;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh; 
+
+  
+}
+.form-container {
+  
+  max-width: 500px; 
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #2E4C80;
+}
+
+
+.background-image {
+  background-image: url('C:\GT\TODOReact\reacttodo\src\images\todo1.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat; 
+
+}
+/*Dashboard*/
+.container-allmaster {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 10px;
+  width: 80%;
+  margin: 0 auto; 
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
