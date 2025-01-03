@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reacttodo/static/css/main.10fac1dc.css",
+    "main.js": "/reacttodo/static/js/main.00b8ea95.js",
+    "static/js/787.5c6b5284.chunk.js": "/reacttodo/static/js/787.5c6b5284.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/reacttodo/static/media/bootstrap-icons.188c4daf771cf463a7f8.woff",
+    "static/media/bootstrap-icons.woff2?": "/reacttodo/static/media/bootstrap-icons.20b477712d7957d9b029.woff2",
+    "static/media/todo1.jpg": "/reacttodo/static/media/todo1.e78395347780db5c158f.jpg",
+    "static/media/GT logo.jpg": "/reacttodo/static/media/GT logo.78261df224bcf6676efe.jpg",
+    "index.html": "/reacttodo/index.html",
+    "main.10fac1dc.css.map": "/reacttodo/static/css/main.10fac1dc.css.map",
+    "main.00b8ea95.js.map": "/reacttodo/static/js/main.00b8ea95.js.map",
+    "787.5c6b5284.chunk.js.map": "/reacttodo/static/js/787.5c6b5284.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10fac1dc.css",
+    "static/js/main.00b8ea95.js"
+  ]
+}
